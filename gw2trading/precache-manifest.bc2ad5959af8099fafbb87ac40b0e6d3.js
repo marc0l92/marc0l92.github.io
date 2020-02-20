@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b84327af1604878d5b6a0e0290a2174",
+    "revision": "4d26d684fcb728ee46aa3b705ea6e62d",
     "url": "/gw2trading/index.html"
   },
   {
-    "revision": "bac318073a5a23fcaa14",
+    "revision": "96b65ae95b2987808062",
     "url": "/gw2trading/static/css/main.d498bfb3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gw2trading/static/js/2.20a1e47c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bac318073a5a23fcaa14",
-    "url": "/gw2trading/static/js/main.ba37878d.chunk.js"
+    "revision": "96b65ae95b2987808062",
+    "url": "/gw2trading/static/js/main.4bb27e45.chunk.js"
   },
   {
     "revision": "64a9fee7d8b5d8cfa13b",
