@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gw2trading/static/css/main.d498bfb3.chunk.css",
-    "main.js": "/gw2trading/static/js/main.4bb27e45.chunk.js",
-    "main.js.map": "/gw2trading/static/js/main.4bb27e45.chunk.js.map",
+    "main.js": "/gw2trading/static/js/main.8fca9141.chunk.js",
+    "main.js.map": "/gw2trading/static/js/main.8fca9141.chunk.js.map",
     "runtime-main.js": "/gw2trading/static/js/runtime-main.02590ba2.js",
     "runtime-main.js.map": "/gw2trading/static/js/runtime-main.02590ba2.js.map",
     "static/js/2.20a1e47c.chunk.js": "/gw2trading/static/js/2.20a1e47c.chunk.js",
     "static/js/2.20a1e47c.chunk.js.map": "/gw2trading/static/js/2.20a1e47c.chunk.js.map",
     "index.html": "/gw2trading/index.html",
-    "precache-manifest.bc2ad5959af8099fafbb87ac40b0e6d3.js": "/gw2trading/precache-manifest.bc2ad5959af8099fafbb87ac40b0e6d3.js",
+    "precache-manifest.725f96467adff3cf0baa14b664426572.js": "/gw2trading/precache-manifest.725f96467adff3cf0baa14b664426572.js",
     "service-worker.js": "/gw2trading/service-worker.js",
     "static/css/main.d498bfb3.chunk.css.map": "/gw2trading/static/css/main.d498bfb3.chunk.css.map",
     "static/js/2.20a1e47c.chunk.js.LICENSE.txt": "/gw2trading/static/js/2.20a1e47c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.02590ba2.js",
     "static/js/2.20a1e47c.chunk.js",
     "static/css/main.d498bfb3.chunk.css",
-    "static/js/main.4bb27e45.chunk.js"
+    "static/js/main.8fca9141.chunk.js"
   ]
 }
